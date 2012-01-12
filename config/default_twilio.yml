@@ -1,2 +1,4 @@
+# copy this file to twilio.yml and fill in your data
 account_sid: ''
 auth_token: ''
+from_phone_number: '+11234567890'
