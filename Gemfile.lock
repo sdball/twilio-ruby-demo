@@ -1,0 +1,18 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    builder (3.0.0)
+    json (1.6.4)
+    jwt (0.1.4)
+      json (>= 1.2.4)
+    multi_json (1.0.4)
+    twilio-ruby (3.5.0)
+      builder (>= 2.1.2)
+      jwt (>= 0.1.2)
+      multi_json (>= 1.0.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  twilio-ruby
